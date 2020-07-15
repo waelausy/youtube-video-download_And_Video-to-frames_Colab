@@ -4,8 +4,8 @@ This repo contains two codes to download youtube video using the python library 
 
 ### video_yt_pytube_download.py
 
-python3 video_yt_pytube_download.py --video https://www.youtube.com/watch?v=iQhpFTiFgIY --resolution 720p
+python3 video_yt_pytube_download.py --video **https://www.youtube.com/XXXX** --resolution **720p**
 
 ### video_to_frames.py
 
-python3 video_to_frames .py -video VIDEO.mp4 -frame_every 500
+python3 video_to_frames .py -video **VIDEO.mp4** -frame_every **500**
