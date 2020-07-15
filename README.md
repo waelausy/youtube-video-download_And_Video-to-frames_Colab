@@ -7,7 +7,7 @@ This repo contains two codes:
 
 ### video_yt_pytube_download.py
 
-python3 video_yt_pytube_download.py --video **https://www.youtube.com/XXXX** --resolution **720p**
+python3 video_yt_pytube_download.py --video **https://www.youtube.com/VIDEO_LINK** --resolution **720p**
 
 ### video_to_frames.py
 
