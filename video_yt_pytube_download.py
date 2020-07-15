@@ -6,8 +6,6 @@ from pytube import YouTube
 
 import argparse
 
-# construct the argument parser and parse the arguments
-
 parser = argparse.ArgumentParser()
 ap = argparse.ArgumentParser()
 ap.add_argument("-v","--video", type=str, help="path to the youtube video")
