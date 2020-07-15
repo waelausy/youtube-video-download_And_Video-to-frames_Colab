@@ -17,7 +17,7 @@ args = ap.parse_args()
 
 #YouTube('http://youtube.com/watch?v=9bZkp7q19f0').streams[0].download()
 video = YouTube(args.video)
-print('Begin download video:',video.streams[0].default_filename,'[',args.video,']')
+print('Start downloading video:',video.streams[0].default_filename,'[',args.video,']')
 #video.streams.all()
 #video.streams.get_by_itag(136).download()
 video.streams.get_by_resolution(args.resolution).download()
