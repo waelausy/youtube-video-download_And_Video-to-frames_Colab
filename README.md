@@ -1,3 +1,7 @@
+# Install requirements
+
+- pip install -r requirements.txt
+
 # Youtube video download and Video to frames
 
 This repo contains two codes:
